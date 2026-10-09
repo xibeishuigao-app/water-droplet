@@ -1,0 +1,6 @@
+{
+  "name": "AquaZen - 真实水滴水面涟漪模拟器",
+  "description": "逼真的水滴坠落与水面动态涟漪交互模拟器，支持实时触摸扩散、物理流体波动、光影折射与水滴音效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
